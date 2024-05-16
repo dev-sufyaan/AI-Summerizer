@@ -7,7 +7,7 @@ const Hero = () => {
         <img src={logo} alt="smz_logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/Andrew-Tsegaye")}
+          onClick={() => window.open("https://github.com/dev-sufyaan")}
           className="black_btn"
         >
           GitHub
@@ -19,7 +19,7 @@ const Hero = () => {
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with Summize, an open-source article summarizer
+        Simplify your reading with sufyaan's Article summarizer, an open-source article summarizer
         that transforms lengthy articles into clear and concise summaries.
       </h2>
     </header>
