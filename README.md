@@ -1,7 +1,7 @@
 
 # Project Name
 
-Sufyaan AI Summarizer
+Sufyaan Article Summarizer
 
 ## Overview
 
@@ -17,7 +17,7 @@ SummarizerAI is an advanced natural language processing tool designed to condens
 ```markdown
 ## Installation
 
-To install SummarizerAI, simply clone this repository:
+To install Article Summerizer, simply clone this repository:
 
 ```bash
 git clone https://github.com/dev-sufyaan/AI-Summerizer.git
