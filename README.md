@@ -1,6 +1,4 @@
-Certainly! Here's a README.md template for your AI summarizer GitHub project:
 
-```markdown
 # Project Name
 
 Sufyaan AI Summarizer
@@ -16,6 +14,7 @@ SummarizerAI is an advanced natural language processing tool designed to condens
 - **Interactive Interface:** User-friendly interface for easy navigation and operation.
 - **Scalable:** Efficiently handles large volumes of text data.
 
+```markdown
 ## Installation
 
 To install SummarizerAI, simply clone this repository:
@@ -28,7 +27,7 @@ Then, navigate to the project directory and install dependencies:
 
 ## Usage
 
-1. **Run the Website :**
+1. **Go to the Website :**
 
 https://project-ai-sum.netlify.app/
 
