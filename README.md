@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or feedback, please feel free to contact the author:
 
 - Email: dev.sufyaan@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/dev-sufyaan)
+- GitHub: [My GitHub Profile](https://github.com/dev-sufyaan)
 ```
 
 ### Notes:
