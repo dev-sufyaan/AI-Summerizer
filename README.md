@@ -54,10 +54,3 @@ For questions or feedback, please feel free to contact the author:
 - Email: dev.sufyaan@gmail.com
 - GitHub: [My GitHub Profile](https://github.com/dev-sufyaan)
 ```
-
-### Notes:
-- Replace placeholders like `Project Name`, `your-username`, `your-email@example.com`, and `example.png` with actual details relevant to your project.
-- Ensure the `example.png` file is included in your repository or update the path accordingly.
-- Customize the features, installation instructions, usage details, and credits to accurately reflect your project.
-
-This template provides a structured and professional README.md file that informs users about your AI summarizer project while also giving credit to the libraries and tools used. Adjust as needed to fit the specifics of your project and your personal style preferences.
